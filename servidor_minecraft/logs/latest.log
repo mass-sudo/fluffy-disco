@@ -1040,3 +1040,36 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26Jun2025 23:01:14.635] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
 [26Jun2025 23:05:58.825] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2100ms or 42 ticks
 [26Jun2025 23:07:04.534] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 23:14:26.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SirGamer lost connection: Disconnected
+[26Jun2025 23:14:26.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SirGamer left the game
+[26Jun2025 23:14:26.898] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SirGamer
+[26Jun2025 23:14:28.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MonitaXD001 lost connection: Disconnected
+[26Jun2025 23:14:28.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MonitaXD001 left the game
+[26Jun2025 23:14:28.693] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MonitaXD001
+[26Jun2025 23:14:32.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Devilfg lost connection: Disconnected
+[26Jun2025 23:14:32.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg left the game
+[26Jun2025 23:14:32.844] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Devilfg
+[26Jun2025 23:14:47.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Jun2025 23:14:47.135] [pool-16-thread-1/INFO] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Stopping PendingImageUpdateThread
+[26Jun2025 23:14:47.137] [pool-5-thread-1/ERROR] [com.dairymoose.modernlife.core.ModernLifeCommon/]: Interrupted during recomputeThreadpool wait
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method) ~[?:?]
+	at com.dairymoose.modernlife.core.ModernLifeCommon$2.run(ModernLifeCommon.java:680) ~[modernlife-1.20.1-1.74.jar%23345!/:1.20.1-1.74]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jun2025 23:14:47.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jun2025 23:14:47.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jun2025 23:14:47.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jun2025 23:14:47.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jun2025 23:14:48.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jun2025 23:14:48.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jun2025 23:14:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jun2025 23:14:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jun2025 23:14:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jun2025 23:14:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Jun2025 23:14:48.972] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Jun2025 23:14:48.973] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[26Jun2025 23:14:48.974] [Server thread/INFO] [Framework/]: Finished unloading server configs
