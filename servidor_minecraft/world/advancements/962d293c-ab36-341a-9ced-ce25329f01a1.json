@@ -10256,5 +10256,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-06-26 22:28:53 +0000"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/cyan_tiles": {
+    "criteria": {
+      "has_item": "2025-06-26 22:28:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

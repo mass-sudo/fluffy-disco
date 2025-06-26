@@ -13158,5 +13158,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-06-26 22:30:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
