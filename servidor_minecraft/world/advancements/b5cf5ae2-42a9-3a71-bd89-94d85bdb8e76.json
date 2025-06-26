@@ -10010,6 +10010,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-26 22:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-26 21:33:48 +0000"
@@ -10022,6 +10028,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-26 22:06:43 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/food/pumpkin_juice": {
     "criteria": {
       "has_pumpkin": "2025-06-26 21:33:48 +0000"
@@ -10031,6 +10043,12 @@
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-06-26 21:33:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-26 22:06:43 +0000"
     },
     "done": true
   },
