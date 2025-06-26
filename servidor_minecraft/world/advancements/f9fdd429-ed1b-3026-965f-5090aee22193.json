@@ -13164,6 +13164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_stairs": "2025-06-26 23:05:38 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/oak_leaves": {
     "criteria": {
       "has_copper_block": "2025-06-26 22:40:12 +0000"
@@ -13173,6 +13179,12 @@
   "xkdeco:recipes/building_blocks/red_maple_leaves": {
     "criteria": {
       "has_item": "2025-06-26 22:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-06-26 23:05:38 +0000"
     },
     "done": true
   },
