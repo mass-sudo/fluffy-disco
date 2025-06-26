@@ -10016,6 +10016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-26 22:02:33 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/food/pumpkin_juice": {
     "criteria": {
       "has_pumpkin": "2025-06-26 21:33:48 +0000"
@@ -10034,6 +10040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-26 22:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-26 21:33:48 +0000"
@@ -10043,6 +10055,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 21:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-26 22:02:33 +0000"
     },
     "done": true
   },

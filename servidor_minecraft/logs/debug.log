@@ -15986,3 +15986,225 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26Jun2025 21:55:58.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Jun2025 21:55:58.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Jun2025 21:56:29.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 21:57:43.930] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[26Jun2025 21:57:43.931] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@3c211d11=InventoryMapping{i=net.minecraft.world.CompoundContainer@3c211d11, c=net.minecraft.world.inventory.ChestMenu@6fcd15d3, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6fcd15d3, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@6fcd15d3, b=54, e=80}}
+[26Jun2025 21:57:43.931] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@3c211d11, c=net.minecraft.world.inventory.ChestMenu@6fcd15d3, b=0, e=53}
+[26Jun2025 21:57:59.545] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[26Jun2025 21:57:59.545] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4ff15137, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4ff15137, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@6cd3b889=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@6cd3b889, c=net.minecraft.world.inventory.ChestMenu@4ff15137, b=0, e=26}}
+[26Jun2025 21:57:59.545] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4ff15137, b=27, e=53}
+[26Jun2025 21:58:15.646] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 41
+[26Jun2025 21:58:15.646] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@25b0023c, b=81, e=89}, net.minecraft.world.CompoundContainer@24b0d532=InventoryMapping{i=net.minecraft.world.CompoundContainer@24b0d532, c=net.minecraft.world.inventory.ChestMenu@25b0023c, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@25b0023c, b=54, e=80}}
+[26Jun2025 21:58:15.646] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@24b0d532, c=net.minecraft.world.inventory.ChestMenu@25b0023c, b=0, e=53}
+[26Jun2025 21:58:40.155] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 53
+[26Jun2025 21:58:40.155] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@5335503=InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=54, e=80}}
+[26Jun2025 21:58:40.155] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}
+[26Jun2025 21:58:40.900] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 53
+[26Jun2025 21:58:40.901] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@5335503=InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=54, e=80}}
+[26Jun2025 21:58:40.901] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}
+[26Jun2025 21:58:41.164] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 53
+[26Jun2025 21:58:41.165] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@5335503=InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=54, e=80}}
+[26Jun2025 21:58:41.165] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}
+[26Jun2025 21:58:41.364] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 53
+[26Jun2025 21:58:41.365] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@5335503=InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@111e445e, b=54, e=80}}
+[26Jun2025 21:58:41.365] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@5335503, c=net.minecraft.world.inventory.ChestMenu@111e445e, b=0, e=53}
+[26Jun2025 21:58:59.548] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 53
+[26Jun2025 21:58:59.548] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@664fc30d, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@664fc30d, b=54, e=80}, net.minecraft.world.CompoundContainer@1247adf3=InventoryMapping{i=net.minecraft.world.CompoundContainer@1247adf3, c=net.minecraft.world.inventory.ChestMenu@664fc30d, b=0, e=53}}
+[26Jun2025 21:58:59.548] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@1247adf3, c=net.minecraft.world.inventory.ChestMenu@664fc30d, b=0, e=53}
+[26Jun2025 21:59:04.169] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 26
+[26Jun2025 21:59:04.169] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@b3f4a5a, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@b3f4a5a, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@6ed2bc2d=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@6ed2bc2d, c=net.minecraft.world.inventory.ChestMenu@b3f4a5a, b=0, e=26}}
+[26Jun2025 21:59:04.169] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@6ed2bc2d, c=net.minecraft.world.inventory.ChestMenu@b3f4a5a, b=0, e=26}
+[26Jun2025 21:59:40.246] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 24
+[26Jun2025 21:59:40.246] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@76ab572a, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@76ab572a, b=27, e=53}, net.minecraft.world.level.block.entity.ChestBlockEntity@6cd3b889=InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@6cd3b889, c=net.minecraft.world.inventory.ChestMenu@76ab572a, b=0, e=26}}
+[26Jun2025 21:59:40.246] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.level.block.entity.ChestBlockEntity@6cd3b889, c=net.minecraft.world.inventory.ChestMenu@76ab572a, b=0, e=26}
+[26Jun2025 21:59:56.335] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Jun2025 22:00:01.176] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 6
+[26Jun2025 22:00:01.177] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {fuzs.visualworkbench.world.inventory.ForwardingCraftingContainer@5330ff50=InventoryMapping{i=fuzs.visualworkbench.world.inventory.ForwardingCraftingContainer@5330ff50, c=fuzs.visualworkbench.world.inventory.ModCraftingMenu@45596b81, b=1, e=9}, []=InventoryMapping{i=[], c=fuzs.visualworkbench.world.inventory.ModCraftingMenu@45596b81, b=37, e=45}, []=InventoryMapping{i=[], c=fuzs.visualworkbench.world.inventory.ModCraftingMenu@45596b81, b=10, e=36}, net.minecraft.world.inventory.ResultContainer@2ffaa1ec=InventoryMapping{i=net.minecraft.world.inventory.ResultContainer@2ffaa1ec, c=fuzs.visualworkbench.world.inventory.ModCraftingMenu@45596b81, b=0, e=0}}
+[26Jun2025 22:00:01.177] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=fuzs.visualworkbench.world.inventory.ForwardingCraftingContainer@5330ff50, c=fuzs.visualworkbench.world.inventory.ModCraftingMenu@45596b81, b=1, e=9}
+[26Jun2025 22:00:12.271] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 22
+[26Jun2025 22:00:12.272] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=27, e=53}, [52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 glass_bottle, 2 apple, 1 stone_paxel, 1 canteen, 1 canteen, 1 chemical_protective_boots, 1 human_flesh, 1 red_football_armor_helmet, 1 scout_chestplate, 1 modern_kinetic_gun, 1 crafting_table]=InventoryMapping{i=[52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 glass_bottle, 2 apple, 1 stone_paxel, 1 canteen, 1 canteen, 1 chemical_protective_boots, 1 human_flesh, 1 red_football_armor_helmet, 1 scout_chestplate, 1 modern_kinetic_gun, 1 crafting_table], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=0, e=26}}
+[26Jun2025 22:00:12.272] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 glass_bottle, 2 apple, 1 stone_paxel, 1 canteen, 1 canteen, 1 chemical_protective_boots, 1 human_flesh, 1 red_football_armor_helmet, 1 scout_chestplate, 1 modern_kinetic_gun, 1 crafting_table], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=0, e=26}
+[26Jun2025 22:00:12.317] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 22
+[26Jun2025 22:00:12.317] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=27, e=53}, [52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 canteen, 1 canteen, 2 apple, 1 red_football_armor_helmet, 1 scout_chestplate, 1 crafting_table, 1 glass_bottle, 1 human_flesh, 1 stone_paxel, 1 chemical_protective_boots, 1 modern_kinetic_gun]=InventoryMapping{i=[52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 canteen, 1 canteen, 2 apple, 1 red_football_armor_helmet, 1 scout_chestplate, 1 crafting_table, 1 glass_bottle, 1 human_flesh, 1 stone_paxel, 1 chemical_protective_boots, 1 modern_kinetic_gun], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=0, e=26}}
+[26Jun2025 22:00:12.317] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 canteen, 1 canteen, 2 apple, 1 red_football_armor_helmet, 1 scout_chestplate, 1 crafting_table, 1 glass_bottle, 1 human_flesh, 1 stone_paxel, 1 chemical_protective_boots, 1 modern_kinetic_gun], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=0, e=26}
+[26Jun2025 22:00:12.397] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 22
+[26Jun2025 22:00:12.397] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=54, e=62}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=27, e=53}, [52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 canteen, 1 canteen, 2 apple, 1 red_football_armor_helmet, 1 scout_chestplate, 1 crafting_table, 1 glass_bottle, 1 human_flesh, 1 stone_paxel, 1 chemical_protective_boots, 1 modern_kinetic_gun]=InventoryMapping{i=[52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 canteen, 1 canteen, 2 apple, 1 red_football_armor_helmet, 1 scout_chestplate, 1 crafting_table, 1 glass_bottle, 1 human_flesh, 1 stone_paxel, 1 chemical_protective_boots, 1 modern_kinetic_gun], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=0, e=26}}
+[26Jun2025 22:00:12.397] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[52 ammo, 22 sweet_berry_cookie, 7 jail_door, 7 cooked_human_flesh, 6 bandage, 3 cooked_beef, 1 canteen, 1 canteen, 2 apple, 1 red_football_armor_helmet, 1 scout_chestplate, 1 crafting_table, 1 glass_bottle, 1 human_flesh, 1 stone_paxel, 1 chemical_protective_boots, 1 modern_kinetic_gun], c=net.minecraft.world.inventory.ChestMenu@2f10475c, b=0, e=26}
+[26Jun2025 22:00:19.407] [Server thread/DEBUG] [mixin/]: Mixing PressingBehaviourMixin from sliceanddice.mixins.json into com.simibubi.create.content.kinetics.press.PressingBehaviour
+[26Jun2025 22:00:19.408] [Server thread/DEBUG] [mixin/]: sliceanddice.mixins.json:PressingBehaviourMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: kiwi:item_template
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: kiwi:block_component
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Jun2025 22:00:58.536] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: kiwi:block_template
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[26Jun2025 22:00:58.537] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Jun2025 22:00:58.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 22:00:58.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Jun2025 22:01:30.773] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 40
+[26Jun2025 22:01:30.774] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1d629890, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@1d629890, b=54, e=80}, net.minecraft.world.CompoundContainer@6731b598=InventoryMapping{i=net.minecraft.world.CompoundContainer@6731b598, c=net.minecraft.world.inventory.ChestMenu@1d629890, b=0, e=53}}
+[26Jun2025 22:01:30.774] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6731b598, c=net.minecraft.world.inventory.ChestMenu@1d629890, b=0, e=53}
+[26Jun2025 22:01:39.301] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[26Jun2025 22:01:39.728] [Server thread/DEBUG] [com.dairymoose.modernlife.core.ModernLifeCommon/]: server trash can
+[26Jun2025 22:01:47.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Jun2025 22:01:59.321] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 113
+[26Jun2025 22:01:59.321] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@58fe956f, b=108, e=116}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@58fe956f, b=0, e=80}, []=InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@58fe956f, b=81, e=107}}
+[26Jun2025 22:01:59.321] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.p3pp3rf1y.sophisticatedbackpacks.common.gui.BackpackContainer@58fe956f, b=108, e=116}
+[26Jun2025 22:02:38.096] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 79
+[26Jun2025 22:02:38.096] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=54, e=80}, net.minecraft.world.CompoundContainer@718b84c3=InventoryMapping{i=net.minecraft.world.CompoundContainer@718b84c3, c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=0, e=53}}
+[26Jun2025 22:02:38.096] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=54, e=80}
+[26Jun2025 22:02:38.276] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMIN slot 79
+[26Jun2025 22:02:38.276] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=54, e=80}, net.minecraft.world.CompoundContainer@718b84c3=InventoryMapping{i=net.minecraft.world.CompoundContainer@718b84c3, c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=0, e=53}}
+[26Jun2025 22:02:38.276] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5c4e98f8, b=54, e=80}
+[26Jun2025 22:04:37.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 22:04:37.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: kiwi:item_template
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:gas
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: kiwi:block_component
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: kiwi:block_template
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:pigment
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Jun2025 22:05:58.542] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:infuse_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: mekanism:slurry
+[26Jun2025 22:05:58.543] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Jun2025 22:05:58.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Jun2025 22:05:58.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
