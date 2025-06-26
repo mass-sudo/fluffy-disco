@@ -10004,18 +10004,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/palm_biomesoplenty_light_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-06-26 01:41:18 +0000"
@@ -10106,12 +10094,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/magic_biomesoplenty_light_gray_classic_bed": {
     "criteria": {
       "has_bed": "2025-06-26 01:41:18 +0000"
@@ -10133,12 +10115,6 @@
   "pfm:recipes/furniture/birch_light_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-06-26 01:41:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
     },
     "done": true
   },
@@ -10232,12 +10208,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-06-26 02:02:32 +0000"
-    },
-    "done": true
-  },
   "pfm:recipes/furniture/hellbark_biomesoplenty_light_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-06-26 01:41:18 +0000"
@@ -10253,6 +10223,36 @@
   "pfm:recipes/furniture/redwood_biomesoplenty_light_gray_simple_bed": {
     "criteria": {
       "has_bed": "2025-06-26 01:41:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-06-26 02:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-26 02:14:52 +0000"
     },
     "done": true
   },

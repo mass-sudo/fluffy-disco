@@ -989,3 +989,16 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26Jun2025 21:35:24.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [26Jun2025 21:35:24.337] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
 [26Jun2025 21:35:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg died
+[26Jun2025 21:37:24.186] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Jun2025 21:38:04.886] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 21:38:04.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 21:38:27.286] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Jun2025 21:40:37.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MonitaXD001[/127.115.126.55:35551] logged in with entity id 11291 at (430.73654142404297, 66.0, 66.67482484493988)
+[26Jun2025 21:40:37.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MonitaXD001 joined the game
+[26Jun2025 21:40:37.726] [Server thread/INFO] [Jade/]: Syncing config to MonitaXD001 (962d293c-ab36-341a-9ced-ce25329f01a1)
+[26Jun2025 21:40:38.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Jun2025 21:40:39.645] [Server thread/INFO] [ping-wheel/]: Channel update: MonitaXD001 -> default
+[26Jun2025 21:40:39.646] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MonitaXD001 (18)
+[26Jun2025 21:40:39.646] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MonitaXD001
+[26Jun2025 21:41:13.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from SirGamer: Location (423.57331269979477, 68.55639910697937, 60.0) too far away from hit block BlockPos{x=423, y=67, z=59}.
+[26Jun2025 21:45:58.856] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2279ms or 45 ticks
