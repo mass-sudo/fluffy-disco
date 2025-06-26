@@ -1,0 +1,15 @@
+{
+	id: "f9fdd429-ed1b-3026-965f-5090aee22193"
+	type: "player"
+	player_name: "Devilfg"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Devilfg"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

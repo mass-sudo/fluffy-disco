@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6dcae674e7904a28903e33062f87a308"
+	name: "Sobreviviremos#6dcae674"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

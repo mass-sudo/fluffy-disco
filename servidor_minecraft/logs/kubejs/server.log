@@ -1,0 +1,33 @@
+[21:15:06] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:15:06] [INIT] Loaded plugins:
+[21:15:06] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:15:06] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[21:15:06] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[21:15:06] [INIT] - net.liopyu.entityjs.EntityJSPlugin
+[21:15:06] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[21:15:07] [INFO] Loaded script server_scripts:removeEntities.js in 0.009 s
+[21:15:07] [INFO] Loaded script server_scripts:LootItem.js in 0.002 s
+[21:15:07] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[21:15:07] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[21:15:07] [INFO] Loaded script server_scripts:variables.js in 0.009 s
+[21:15:07] [INFO] Loaded script server_scripts:customLootTables.js in 0.111 s
+[21:15:07] [INFO] Loaded script server_scripts:entitySpawnBalancing.js in 0.007 s
+[21:15:07] [INFO] Loaded script server_scripts:recipes.js in 0.0 s
+[21:15:07] [INFO] Loaded 7/7 KubeJS server scripts in 0.158 s with 0 errors and 0 warnings
+[21:15:07] [INFO] Scripts loaded
+[21:15:07] [INFO] Initializing recipe event...
+[21:15:11] [INFO] Processing recipes...
+[21:15:11] [WARN] Failed to parse recipe 'mutantsbuff:creeper_shard_plus_hammer[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[21:15:11] [WARN] Failed to parse recipe 'mekaweapons:module_arrowvelocity_unit[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[21:15:11] [WARN] Failed to parse recipe 'mutantsbuff:aadd[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[21:15:11] [WARN] Failed to parse recipe 'apocalypsenow:rockeyhelmetrecipe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[21:15:11] [WARN] Failed to parse recipe 'mutantsbuff:creeper_shard_plus_ham_2[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[21:15:11] [WARN] Failed to parse recipe 'blocksyouneed_luna:soot[minecraft:smoking]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[21:15:11] [INFO] Found 18727 recipes in 200.1 ms
+[21:15:11] [INFO] Posted recipe events in 8.032 ms
+[21:15:11] [WARN] Error parsing recipe immersive_armorer:attachments/sight_light[tacz:gun_smith_table_crafting]: {"materials":[{"item":{"tag":"forge:ingots/steel"},"count":4},{"item":{"item":"immersiveengineering:wirecoil_steel"},"count":2},{"item":{"tag":"forge:glass_panes"},"count":2}],"result":{"type":"attachment","id":"immersive_armorer:sight_light"},"type":"tacz:gun_smith_table_crafting"}: Unknown item 'immersiveengineering:wirecoil_steel'
+[21:15:11] [WARN] Error parsing recipe mekaweapons:module_arrowvelocity_unit[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","result":{"item":"mekaweapons:module_arrowvelocity_unit"},"pattern":["sbs","ama","ppp"],"key":{"m":{"item":"mekanism:module_base"},"p":{"item":"mekanism:pellet_polonium"},"b":{"item":"minecraft:arrow"},"a":{"item":"mekanism:alloy_reinforced"},"s":{"item":"mekanism:upgrade_speed"}}}: Unknown item 'mekaweapons:module_arrowvelocity_unit'
+[21:15:12] [WARN] Error parsing recipe blocksyouneed_luna:soot[minecraft:smoking]: {"type":"minecraft:smoking","group":"soot","category":"misc","experience":1,"cookingtime":100,"ingredient":{"item":"minecraft:air"},"result":"blocksyouneed_luna:soot"}: Empty ingredient not allowed here
+[21:15:12] [WARN] Error parsing recipe apocalypsenow:rockeyhelmetrecipe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","pattern":["a  "," ab","  a"],"key":{"a":{"item":"minecraft:leather"},"b":{"item":"minecraft:green_dye"}},"result":{"item":"apocalypsenow:officer_chestplate","count":1}}: Unknown item 'apocalypsenow:officer_chestplate'
+[21:15:12] [INFO] Added 2 recipes, removed 0 recipes, modified 1 recipes, with 4 failed recipes in 345.5 ms
+[21:15:15] [INFO] Server resource reload complete!

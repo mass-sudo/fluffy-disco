@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "962d293cab36341a9cedce25329f01a1"
+	name: "MonitaXD001#962d293c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

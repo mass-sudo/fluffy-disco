@@ -1,0 +1,14 @@
+
+[Zombie]
+	headless_zombie = true
+	horizontally_cutted_zombie = true
+	vertically_cutted_zombie = true
+	crushed_zombie = true
+	severed_legs_zombie = true
+	disarmed_zombie = true
+	severed_legs_and_arm_zombie = true
+	horizontally_cutted_spider = true
+	vertically_cutted_spider = true
+	exploded_head_spider = true
+	zombie_about_to_die = true
+

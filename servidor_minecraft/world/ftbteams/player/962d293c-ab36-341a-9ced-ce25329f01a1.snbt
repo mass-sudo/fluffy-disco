@@ -1,0 +1,17 @@
+{
+	id: "962d293c-ab36-341a-9ced-ce25329f01a1"
+	type: "player"
+	player_name: "MonitaXD001"
+	ranks: {
+		962d293c-ab36-341a-9ced-ce25329f01a1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MonitaXD001"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "b5cf5ae2-42a9-3a71-bd89-94d85bdb8e76"
+	type: "player"
+	player_name: "SirGamer"
+	ranks: {
+		b5cf5ae2-42a9-3a71-bd89-94d85bdb8e76: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SirGamer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

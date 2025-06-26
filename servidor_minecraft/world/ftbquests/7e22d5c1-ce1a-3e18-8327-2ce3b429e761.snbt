@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7e22d5c1ce1a3e1883272ce3b429e761"
+	name: "Stevan#7e22d5c1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

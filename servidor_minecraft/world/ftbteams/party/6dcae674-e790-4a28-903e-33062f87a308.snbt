@@ -1,0 +1,24 @@
+{
+	id: "6dcae674-e790-4a28-903e-33062f87a308"
+	type: "party"
+	owner: "f9fdd429-ed1b-3026-965f-5090aee22193"
+	ranks: {
+		1efc3aa2-1218-343b-9f4e-0e9263cb227c: "member"
+		f9fdd429-ed1b-3026-965f-5090aee22193: "owner"
+		7e22d5c1-ce1a-3e18-8327-2ce3b429e761: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Sobreviviremos"
+		"ftbteams:description": "Unance pendejos"
+		"ftbteams:color": "#FF6359"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750015687826L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Devilfg\"}]}" }
+		{ from: "f9fdd429-ed1b-3026-965f-5090aee22193", date: 1750015702752L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MonitaXD\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750015709337L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MonitaXD\"}]}" }
+		{ from: "f9fdd429-ed1b-3026-965f-5090aee22193", date: 1750210138504L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Stevan\"}]}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,6 @@
+
+[Mode]
+	hurt_mode = "classic"
+	death_mode = "classic"
+	explode_mode = "classic"
+

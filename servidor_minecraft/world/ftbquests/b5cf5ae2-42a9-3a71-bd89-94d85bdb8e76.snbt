@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b5cf5ae242a93a71bd8994d85bdb8e76"
+	name: "SirGamer#b5cf5ae2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

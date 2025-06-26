@@ -1,0 +1,14 @@
+
+["extra config"]
+	toughness_zombie_burn = true
+	naturally_toughness_creatures_spawning = false
+	#Entities with more health, toughness_only , all_entities , null
+	stonelike_entities = "null"
+	stonelike_health_that_add = 15.0
+	#50/50 , Always , Never
+	toughness_zombie_spawn_probabilities = "50/50"
+	#50/50 , Always , Never
+	toughness_zombie_resurrection = "50/50"
+	death_mode_during_toughness_spawning = false
+	vanished_items_when_burned = false
+

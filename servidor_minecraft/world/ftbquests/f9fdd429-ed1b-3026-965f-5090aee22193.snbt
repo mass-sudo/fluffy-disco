@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f9fdd429ed1b3026965f5090aee22193"
+	name: "Devilfg#f9fdd429"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
