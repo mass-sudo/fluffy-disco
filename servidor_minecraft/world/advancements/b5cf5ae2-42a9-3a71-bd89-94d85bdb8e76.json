@@ -10010,9 +10010,51 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-06-26 22:16:11 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slope": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_layer": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_half_layer": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_beam": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-06-26 22:06:43 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-06-26 22:16:11 +0000"
     },
     "done": true
   },
@@ -10022,9 +10064,63 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-06-26 22:16:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-26 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_byte": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_wooden_button": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_shaft": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_pane": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_folding_door": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_sliding_door": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_ghost_block": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
     },
     "done": true
   },
@@ -10034,9 +10130,57 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_byte_panel": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
   "legendarysurvivaloverhaul:recipes/food/pumpkin_juice": {
     "criteria": {
       "has_pumpkin": "2025-06-26 21:33:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_stairs": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_wall": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_trapdoor": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
     },
     "done": true
   },
@@ -10046,9 +10190,33 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_wooden_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-06-26 22:06:43 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slope_layer": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
     },
     "done": true
   },
@@ -10058,9 +10226,99 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_vertical_slope": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/achoria_blocksyouneed_luna_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-26 22:16:11 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_flat_pane": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_half_panel": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-06-26 22:02:33 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_light_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_board": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fence": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_half_layer": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_stairs": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_block": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slab": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_stacked_half_layer": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_stone_button": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_corner_slice": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
     },
     "done": true
   },
@@ -10070,9 +10328,45 @@
     },
     "done": true
   },
+  "copycats:recipes/crafting/copycat_door": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-06-26 21:33:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_slice": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_vertical_slice": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_ladder": {
+    "criteria": {
+      "has_item": "2025-06-26 22:21:40 +0000"
     },
     "done": true
   },
