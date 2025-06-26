@@ -1002,3 +1002,10 @@ java.lang.ClassNotFoundException: it.unimi.dsi.fastutil.doubles.AbstractDoubleLi
 [26Jun2025 21:40:39.646] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MonitaXD001
 [26Jun2025 21:41:13.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from SirGamer: Location (423.57331269979477, 68.55639910697937, 60.0) too far away from hit block BlockPos{x=423, y=67, z=59}.
 [26Jun2025 21:45:58.856] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 2279ms or 45 ticks
+[26Jun2025 21:46:57.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Devilfg lost too much blood while trying to escape Mercenary.
+[26Jun2025 21:47:53.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 21:51:03.685] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Jun2025 21:52:01.536] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[26Jun2025 21:52:04.137] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:runner but it was marked as removed already
+[26Jun2025 21:52:06.535] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:shambler but it was marked as removed already
+[26Jun2025 21:56:29.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
